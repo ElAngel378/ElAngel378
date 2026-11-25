@@ -23,9 +23,11 @@
 </p>
 
 ### GitHub Analytics
+<div align="center">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ElAngel378&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAngel378&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAngel378&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
