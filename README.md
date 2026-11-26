@@ -5,17 +5,17 @@
 
 - 🇲🇽 Mexican
 - 📖 I’m currently studying computer engineering at the Centro Universitario de los Altos
-- 💻 Interested on learning python, C and C++
+- 💻 Interested in learning Python, C, and C++
 <p>
   <img alt="Python" width="25px" src="https://skillicons.dev/icons?i=py" />
   <img alt="c" width="25px" src="https://skillicons.dev/icons?i=c" />
   <img alt="C++" width="25px" src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-- 🎵 I'm musician specialized in electronic and chiptune music
-- 🌐 Interested in web development and cibersecurity
+- 🎵 I am a musician, specializing in electronic music and chiptune
+- 🌐 Interested in web development and cybersecurity
 
-- 🎮 I have experience in video game development and chiptune music
+- 🎮 Experienced in video game development and chiptune music
 <p>
   <img alt="unity" width="25px" src="https://skillicons.dev/icons?i=unity" />
   <img alt="godot" width="25px" src="https://skillicons.dev/icons?i=godot" />
